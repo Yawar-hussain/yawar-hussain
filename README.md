@@ -35,7 +35,7 @@ IT support engineer with 15 years of hands-on experience, specialising in Active
 `Active Directory` `Group Policy` `Microsoft 365` `Entra ID` `Windows Server` `PowerShell` `Microsoft Graph` `Python` `Bash` `Azure` `ServiceNow` `Jira` `DNS` `LAN/WAN` `VPN`
 
 ### 📜 Certifications
-- ⏳ **SC-900:** Microsoft Security, Compliance & Identity Fundamentals (booked)
+- ⏳ **SC-900:** Microsoft Security, Compliance & Identity Fundamentals (studying)
 - ⏳ **SC-300:** Microsoft Identity and Access Administrator (studying)
 
 ### 🎓 Education
