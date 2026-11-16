@@ -26,7 +26,7 @@ IT support engineer with 15 years of hands-on experience, specialising in Active
 | 6 | [PIM & access reviews](https://github.com/Yawar-hussain/pim-access-review-lab) | Just-in-time admin, access reviews, Graph reporting | ⏳ Planned |
 
 ### 🎓 University projects (MSc, Ulster University)
-- [Azure web app](https://github.com/Yawar-hussain/REPO-NAME): web app and database deployed on Microsoft Azure
+- [SnapVerse Azure web app](https://github.com/Yawar-hussain/snapverse-azure-web-app): Node.js photo-sharing app with Azure Blob Storage, Docker and a GitHub Actions deployment pipeline
 - [QUANT·LAB crypto trading bot](https://github.com/Yawar-hussain/quantlab-crypto-trading-bot) ([showcase](https://yawar-hussain.github.io/quantlab-crypto-trading-bot/)): Python regime-based trading bot with Flask dashboard (Alpaca paper trading)
 
 ---
