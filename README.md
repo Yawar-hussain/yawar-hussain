@@ -27,7 +27,7 @@ IT support engineer with 15 years of hands-on experience, specialising in Active
 
 ### 🎓 University projects (MSc, Ulster University)
 - [Azure web app](https://github.com/Yawar-hussain/REPO-NAME): web app and database deployed on Microsoft Azure
-- [AI crypto bot](https://github.com/Yawar-hussain/REPO-NAME): Python trading bot with AI-driven signals
+- [QUANT·LAB crypto trading bot](https://github.com/Yawar-hussain/quantlab-crypto-trading-bot) ([showcase](https://yawar-hussain.github.io/quantlab-crypto-trading-bot/)): Python regime-based trading bot with Flask dashboard (Alpaca paper trading)
 
 ---
 
